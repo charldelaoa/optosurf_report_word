@@ -1,0 +1,5 @@
+# Wafer roughness measurement 
+
+In this document a new methodology to characterize wafer roughness is presented. This methodology uses a scattered light sensor that enables optical, contactless measurement of different types of surfaces (Optosurf)
+
+\newpage

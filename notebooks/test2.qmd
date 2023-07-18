@@ -1,0 +1,3 @@
+![test](figures/a/fig_1_optical_field.png){#fig-elephant}
+
+@fig-elephant rfewfw

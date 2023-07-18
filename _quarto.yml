@@ -1,0 +1,38 @@
+project:
+  type: book
+
+book:
+  title: "Optosurf wafer roughness measurements"
+  author: "Carlos Reyes"
+  date: "6/13/2023"
+  chapters:
+    - index.qmd
+    - notebooks/a_optical_field.ipynb
+    - notebooks/b_base_function.ipynb
+    - notebooks/c_optimization.ipynb
+    - notebooks/d_RMSE.ipynb
+    - intro.qmd
+    - references.qmd
+
+options:
+  knitr:
+    echo: true
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    code-fold: true
+ 
+
+editor: visual
+
+execute:
+  echo: false
+  
+link-citations	: true
+
+notes-after-punctuation: true
+
+
